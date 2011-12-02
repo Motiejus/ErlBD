@@ -55,4 +55,4 @@ This code is not supposed to be on production due to obvious performance reasons
 My hypothesis
 -------------
 
-Middle-to-large writes (100K * 10K, 10K * 100K, 1K * 1M) will be faster with ErlBD compared to a decent SSD. Precise testing conditions are to be done.
+Middle-to-large writes (100K * 10K, 10K * 100K, 1K * 1M) will be faster with ErlBD compared to a decent SSD. Precise testing conditions are to be done once something working is implemented.
